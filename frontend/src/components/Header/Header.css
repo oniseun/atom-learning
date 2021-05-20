@@ -1,0 +1,16 @@
+.header {
+  align-items: center;
+  border-bottom: 1px solid #333;
+  display: flex;
+  padding: 1em;
+}
+
+.title {
+  font-size: 1em;
+  font-style: italic;
+  margin-left: 2em;
+}
+
+.logo {
+  width: 160px;
+}

@@ -1,0 +1,5431 @@
+{
+  "questions": [
+    {
+      "id": 194983,
+      "questionText": "Select the word which is a correctly spelt diminutive.",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "piglet",
+          "isCorrect": true
+        },
+        {
+          "answerText": "pork",
+          "isCorrect": false
+        },
+        {
+          "answerText": "boar",
+          "isCorrect": false
+        },
+        {
+          "answerText": "guinea-pig",
+          "isCorrect": false
+        },
+        {
+          "answerText": "pigling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 194986,
+      "questionText": "Select the word which is a correctly spelt diminuitive.",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "duckling",
+          "isCorrect": true
+        },
+        {
+          "answerText": "duckets",
+          "isCorrect": false
+        },
+        {
+          "answerText": "ducked",
+          "isCorrect": false
+        },
+        {
+          "answerText": "ducks",
+          "isCorrect": false
+        },
+        {
+          "answerText": "duckettes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 195002,
+      "questionText": "What does adding diminutive suffixes or prefixes do to a word?",
+      "difficulty": 2,
+      "answerOptions": [
+        {
+          "answerText": "It creates a meaning of small/little.",
+          "isCorrect": true
+        },
+        {
+          "answerText": "It creates a meaning of big/huge.",
+          "isCorrect": false
+        },
+        {
+          "answerText": "It does not change the meaning, only the spelling.",
+          "isCorrect": false
+        },
+        {
+          "answerText": "It changes the tense of the word.",
+          "isCorrect": false
+        },
+        {
+          "answerText": "It indicates where something is placed.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 195309,
+      "questionText": "Which of the following is a plural noun?",
+      "difficulty": 1,
+      "answerOptions": [
+        {
+          "answerText": "footsteps",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Louise",
+          "isCorrect": false
+        },
+        {
+          "answerText": "open",
+          "isCorrect": false
+        },
+        {
+          "answerText": "door",
+          "isCorrect": false
+        },
+        {
+          "answerText": "hope",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 201516,
+      "questionText": "Great Africa Zoo are counting the number of spots on the leopards - Leppy and Lemon. Lemon has 56 spots and Leppy has 34 spots. Each of them has a leopard cub, with half the number of spots that they have. What is the mean average number of spots for all the leopards?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "33.75",
+          "isCorrect": true
+        },
+        {
+          "answerText": "34.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "31.25",
+          "isCorrect": false
+        },
+        {
+          "answerText": "29.75",
+          "isCorrect": false
+        },
+        {
+          "answerText": "29",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 201874,
+      "questionText": "There are 555,890 fish in the aquarium, but when Elsa tells visitors, she rounds this number to the nearest 100. How many fish do the visitors think there are?",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "555900",
+          "isCorrect": true
+        },
+        {
+          "answerText": "600000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1000000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "500000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "550000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 201875,
+      "questionText": "Rose's production company sells 849,999 episodes of TV a year. How many is this rounded to the nearest 1,000",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "850000",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1000000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "800000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "840000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "849000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 201886,
+      "questionText": "By 2030 there will be 10,893 more CCTV cameras than there are currently. The council counts to the nearest 10. What will they say the increase will be?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "10890",
+          "isCorrect": true
+        },
+        {
+          "answerText": "11000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "10000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "10900",
+          "isCorrect": false
+        },
+        {
+          "answerText": "10903",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202034,
+      "questionText": "Jike Mackson has sold 10,989 records over 11 years. How many is that per year on average?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "999",
+          "isCorrect": true
+        },
+        {
+          "answerText": "998",
+          "isCorrect": false
+        },
+        {
+          "answerText": "997",
+          "isCorrect": false
+        },
+        {
+          "answerText": "996",
+          "isCorrect": false
+        },
+        {
+          "answerText": "995",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202179,
+      "questionText": "Which of these numbers is divisible by 3?",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "123456",
+          "isCorrect": true
+        },
+        {
+          "answerText": "123022",
+          "isCorrect": false
+        },
+        {
+          "answerText": "123779",
+          "isCorrect": false
+        },
+        {
+          "answerText": "123754",
+          "isCorrect": false
+        },
+        {
+          "answerText": "123329",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202181,
+      "questionText": "Which of these numbers is not divisible by 6?",
+      "difficulty": 2,
+      "answerOptions": [
+        {
+          "answerText": "46789",
+          "isCorrect": true
+        },
+        {
+          "answerText": "46002",
+          "isCorrect": false
+        },
+        {
+          "answerText": "35304",
+          "isCorrect": false
+        },
+        {
+          "answerText": "42936",
+          "isCorrect": false
+        },
+        {
+          "answerText": "36318",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202185,
+      "questionText": "Which of the following numbers is 8 a factor?",
+      "difficulty": 2,
+      "answerOptions": [
+        {
+          "answerText": "200",
+          "isCorrect": true
+        },
+        {
+          "answerText": "212",
+          "isCorrect": false
+        },
+        {
+          "answerText": "213",
+          "isCorrect": false
+        },
+        {
+          "answerText": "215",
+          "isCorrect": false
+        },
+        {
+          "answerText": "207",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202186,
+      "questionText": "Which of these numbers is a factor of 299?",
+      "difficulty": 2,
+      "answerOptions": [
+        {
+          "answerText": "13",
+          "isCorrect": true
+        },
+        {
+          "answerText": "3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "12",
+          "isCorrect": false
+        },
+        {
+          "answerText": "17",
+          "isCorrect": false
+        },
+        {
+          "answerText": "18",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202187,
+      "questionText": "Which of these numbers is a factor of 204?",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "17",
+          "isCorrect": true
+        },
+        {
+          "answerText": "10",
+          "isCorrect": false
+        },
+        {
+          "answerText": "15",
+          "isCorrect": false
+        },
+        {
+          "answerText": "32",
+          "isCorrect": false
+        },
+        {
+          "answerText": "16",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202192,
+      "questionText": "What is the highest common factor of 103 and 77?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "1",
+          "isCorrect": true
+        },
+        {
+          "answerText": "3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7",
+          "isCorrect": false
+        },
+        {
+          "answerText": "11",
+          "isCorrect": false
+        },
+        {
+          "answerText": "17",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202193,
+      "questionText": "What is the highest common factor of 108 and 94?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "2",
+          "isCorrect": true
+        },
+        {
+          "answerText": "16",
+          "isCorrect": false
+        },
+        {
+          "answerText": "18",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8",
+          "isCorrect": false
+        },
+        {
+          "answerText": "24",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202194,
+      "questionText": "What is the highest common factor of 204 and 64?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "4",
+          "isCorrect": true
+        },
+        {
+          "answerText": "16",
+          "isCorrect": false
+        },
+        {
+          "answerText": "24",
+          "isCorrect": false
+        },
+        {
+          "answerText": "32",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202198,
+      "questionText": "Betty the builder has two blocks of marble: one is 910 kg and the other is 468 kg. She wants to cut them both into slabs of equal mass with none left over. What is the largest mass she can make the new slabs in kilograms?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "26",
+          "isCorrect": true
+        },
+        {
+          "answerText": "56",
+          "isCorrect": false
+        },
+        {
+          "answerText": "68",
+          "isCorrect": false
+        },
+        {
+          "answerText": "114",
+          "isCorrect": false
+        },
+        {
+          "answerText": "24",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202199,
+      "questionText": "Marcel is editing a long book. There are two volumes: one of 825 pages and one of 510 pages. He wants the chapters of both books to have equal lengths. What is the greatest number of pages each chapter can be?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "15",
+          "isCorrect": true
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "35",
+          "isCorrect": false
+        },
+        {
+          "answerText": "65",
+          "isCorrect": false
+        },
+        {
+          "answerText": "95",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202200,
+      "questionText": "Kelly is skipping along two streets and wants to keep to the same length skips. One street is 4,620cm and the other is 2,730 cm. What is the longest her skips can be in centimetres, if she wants to skip down both roads with an exact number of skips?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "210",
+          "isCorrect": true
+        },
+        {
+          "answerText": "40",
+          "isCorrect": false
+        },
+        {
+          "answerText": "60",
+          "isCorrect": false
+        },
+        {
+          "answerText": "95",
+          "isCorrect": false
+        },
+        {
+          "answerText": "105",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202201,
+      "questionText": "A rocket designer needs to make a rocket's multiple fuel tanks equal in size. The rocket needs 266 litres of zippo fuel and 114 litres of ammo fuel. Without mixing fuels, what is the largest size in litres that each fuel tank can be?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "38",
+          "isCorrect": true
+        },
+        {
+          "answerText": "12",
+          "isCorrect": false
+        },
+        {
+          "answerText": "14",
+          "isCorrect": false
+        },
+        {
+          "answerText": "16",
+          "isCorrect": false
+        },
+        {
+          "answerText": "18",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202202,
+      "questionText": "Zareen is an architect who needs steel and aluminium columns of the same length for her new building. Aluminium can be bought in 56m columns and steel can be bought in 48m columns. What is the longest length (in m) that she can cut all of her columns to if Zareen cannot afford to waste any metal?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "8",
+          "isCorrect": true
+        },
+        {
+          "answerText": "2",
+          "isCorrect": false
+        },
+        {
+          "answerText": "4",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "12",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202204,
+      "questionText": "Some bank robbers want to hide the money they stole in stacks of coins of equal size. They have 315 gold coins and 3,675 silver coins. Without mixing any of the gold coins with the silver ones, what is the largest number of coins that they can have per coin stack?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "105",
+          "isCorrect": true
+        },
+        {
+          "answerText": "95",
+          "isCorrect": false
+        },
+        {
+          "answerText": "85",
+          "isCorrect": false
+        },
+        {
+          "answerText": "65",
+          "isCorrect": false
+        },
+        {
+          "answerText": "35",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202213,
+      "questionText": "Which of these numbers is not a prime number?",
+      "difficulty": 1,
+      "answerOptions": [
+        {
+          "answerText": "732",
+          "isCorrect": true
+        },
+        {
+          "answerText": "733",
+          "isCorrect": false
+        },
+        {
+          "answerText": "787",
+          "isCorrect": false
+        },
+        {
+          "answerText": "751",
+          "isCorrect": false
+        },
+        {
+          "answerText": "761",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202311,
+      "questionText": "It takes me 39 steps to walk 100 metres. How many steps will I walk in 300 metres?",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "117",
+          "isCorrect": true
+        },
+        {
+          "answerText": "118",
+          "isCorrect": false
+        },
+        {
+          "answerText": "119",
+          "isCorrect": false
+        },
+        {
+          "answerText": "121",
+          "isCorrect": false
+        },
+        {
+          "answerText": "123",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202802,
+      "questionText": "Inigo buys a painting for £5.436 million and sells it on for 1.6 times as much money to Dmitry. Dmitry then sells this on for 2.7 times as much money as he bought it for. For how many millions of pounds did Dmitry sell the painting for?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "23.48352",
+          "isCorrect": true
+        },
+        {
+          "answerText": "8.154",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2.2015",
+          "isCorrect": false
+        },
+        {
+          "answerText": "22.158",
+          "isCorrect": false
+        },
+        {
+          "answerText": "22.1158",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202807,
+      "questionText": "Once gold is mined, the extraction of gold can be expensive. It costs Roxanne £4.78 to extract each gram of gold. On Monday she extracts 16.275 grams of gold. How much does Monday's extraction cost her?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "77.79",
+          "isCorrect": true
+        },
+        {
+          "answerText": "77.89",
+          "isCorrect": false
+        },
+        {
+          "answerText": "77.72",
+          "isCorrect": false
+        },
+        {
+          "answerText": "78.73",
+          "isCorrect": false
+        },
+        {
+          "answerText": "76.8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202852,
+      "questionText": "Dillon has carved a frieze. It is 5.2 metres long and cost him £9.62 thousand to make. How many thousands did each metre cost him in total?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "1.85",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1.84",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.82",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.78",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.76",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202911,
+      "questionText": "Steven exercises 4 days every week. What portion of the week does he exercise, expressed as a decimal to two decimal places?",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "0.57",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1.75",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.56",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.54",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.41",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202912,
+      "questionText": "Rahim has two jars that can hold 54 bouncy balls each. He has 99 bouncy balls in total, which fill one jar and almost fill the other. Expressed as a decimal rounded to two decimal places, how many jars of bouncy balls does he have?",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "1.83",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1.84",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.82",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.88",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202919,
+      "questionText": "Archie has 12 bottles of lemonade to share with 7 people at a party. How many bottles of lemonade would each person get, expressed as a decimal and rounded to 2 d.p.?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1.71",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1.7",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.72",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.73",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.57",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202921,
+      "questionText": "Lucy hikes 25 km in 11 hours. How many kilometres does she walk per hour? The answer must be expressed to 2 d.p.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "2.27",
+          "isCorrect": true
+        },
+        {
+          "answerText": "2.272",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2.13",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2.18",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2.09",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202922,
+      "questionText": "Seven people share nine pies. How much pie does each person get, expressed as a decimal and rounded to two decimal places?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1.29",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1.27",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.28",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.25",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.41",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202923,
+      "questionText": "Maria the gardener waters 25 plant pots with 135 litres of water each month. Each plant gets the same amount of water. How much water does each plant pot get every month, expressed as a decimal?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "5.4",
+          "isCorrect": true
+        },
+        {
+          "answerText": "5.2",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5.3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "4.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5.44",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202924,
+      "questionText": "Ed and Danny are planning a winter trip: they want to visit 10 countries in 22 days and spend the same amount of time in each country. How many days will they spend in each country?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "2.2",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.45",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2.4",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 202925,
+      "questionText": "Herbert the tailor requires 27 m of cloth to make his suits. Each roll of cloth is 7 m long. Exactly how many rolls of cloth does Herbert need, expressed as a decimal and rounded to two decimal places?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "3.86",
+          "isCorrect": true
+        },
+        {
+          "answerText": "3.875",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3.571",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3.71",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2.86",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 203104,
+      "questionText": "If a triangle has one right angle and one angle of 35 degrees, what is the value of the remaining angle in degrees?",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "55",
+          "isCorrect": true
+        },
+        {
+          "answerText": "45",
+          "isCorrect": false
+        },
+        {
+          "answerText": "35",
+          "isCorrect": false
+        },
+        {
+          "answerText": "65",
+          "isCorrect": false
+        },
+        {
+          "answerText": "75",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 203160,
+      "questionText": "How much would your average small car weigh in tonnes?",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "1",
+          "isCorrect": true
+        },
+        {
+          "answerText": "5000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "15",
+          "isCorrect": false
+        },
+        {
+          "answerText": "20",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 203204,
+      "questionText": "I live 30 miles away from the airport. A taxi charges me 20 pence per kilometre for a journey plus a £2 service charge regardless of the distance travelled. How much does a taxi ride to the airport cost me, in pounds?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "11.6",
+          "isCorrect": true
+        },
+        {
+          "answerText": "15",
+          "isCorrect": false
+        },
+        {
+          "answerText": "26.6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "18",
+          "isCorrect": false
+        },
+        {
+          "answerText": "14.4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 203357,
+      "questionText": "Adam's living room is the shape of a perfect parallelogram, which has a length of 13.5m and a width of 12m. Unfortunately, he spilt a full glass of 435ml of blackcurrant squash right in the middle of the room. His mum has asked him to pay for a new carpet for the whole room as a result. The carpet costs £2 per 3 square metres. How much will a carpet for his living room cost?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "108",
+          "isCorrect": true
+        },
+        {
+          "answerText": "104",
+          "isCorrect": false
+        },
+        {
+          "answerText": "162",
+          "isCorrect": false
+        },
+        {
+          "answerText": "54",
+          "isCorrect": false
+        },
+        {
+          "answerText": "96",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 203776,
+      "questionText": "A farmer has increased her herd of cows by 28%. If she now has 448 cows, how many did she have before?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "350",
+          "isCorrect": true
+        },
+        {
+          "answerText": "300",
+          "isCorrect": false
+        },
+        {
+          "answerText": "342",
+          "isCorrect": false
+        },
+        {
+          "answerText": "416",
+          "isCorrect": false
+        },
+        {
+          "answerText": "234",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 206387,
+      "questionText": "A property developer is buying some houses and some land as part of her portfolio. She buys 3 houses and 2 plots of land. A house is worth £250,000. The land is worth half as much. What is the total value of the portfolio?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1000000",
+          "isCorrect": true
+        },
+        {
+          "answerText": "500000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "500",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 209032,
+      "questionText": "Multiply 350 by 5 and round the result to the nearest hundred.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1800",
+          "isCorrect": true
+        },
+        {
+          "answerText": "2000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1750",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1700",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 209067,
+      "questionText": "Which of the following numbers is divisible by 4?",
+      "difficulty": 2,
+      "answerOptions": [
+        {
+          "answerText": "932",
+          "isCorrect": true
+        },
+        {
+          "answerText": "358",
+          "isCorrect": false
+        },
+        {
+          "answerText": "442",
+          "isCorrect": false
+        },
+        {
+          "answerText": "334",
+          "isCorrect": false
+        },
+        {
+          "answerText": "226",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 209411,
+      "questionText": "What is the highest common factor of 72 and 128?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "8",
+          "isCorrect": true
+        },
+        {
+          "answerText": "9216",
+          "isCorrect": false
+        },
+        {
+          "answerText": "16",
+          "isCorrect": false
+        },
+        {
+          "answerText": "12",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 209423,
+      "questionText": "I think of a number. I find the square root of the number and then find the square root of the answer. I then cube this number and the product is 27. What was the original number?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "81",
+          "isCorrect": true
+        },
+        {
+          "answerText": "49",
+          "isCorrect": false
+        },
+        {
+          "answerText": "16",
+          "isCorrect": false
+        },
+        {
+          "answerText": "144",
+          "isCorrect": false
+        },
+        {
+          "answerText": "169",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 209510,
+      "questionText": "I'm decorating a rectangular room with square floor tiles. The room measures 175 cm by 245 cm. I'm using identical square floor tiles to cover the entire floor exactly. What is the largest possible side length, in centimetres, of each floor tile?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "35",
+          "isCorrect": true
+        },
+        {
+          "answerText": "30",
+          "isCorrect": false
+        },
+        {
+          "answerText": "50",
+          "isCorrect": false
+        },
+        {
+          "answerText": "55",
+          "isCorrect": false
+        },
+        {
+          "answerText": "45",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 209853,
+      "questionText": "What is the lowest common multiple of 18 and 21?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "126",
+          "isCorrect": true
+        },
+        {
+          "answerText": "105",
+          "isCorrect": false
+        },
+        {
+          "answerText": "90",
+          "isCorrect": false
+        },
+        {
+          "answerText": "84",
+          "isCorrect": false
+        },
+        {
+          "answerText": "162",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 210924,
+      "questionText": "Tom is trying to work out the cost of repainting his room. He must buy all the equipment himself. Paint is bought in tins of 80ml and he needs 2 different colours (black and white). A tin of black paint is £7 and a tin of white paint is £4. He needs to paint 4 walls with both colours (the white is a base layer), giving each wall 3 coats of each colour. It takes 20ml of paint to cover 1 wall with a single coat. He also needs to buy some rollers and paint brushes, which cost a total of £11. As Tom is a student he gets half price at the art shop. What is the final cost that Tom must pay?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "22",
+          "isCorrect": true
+        },
+        {
+          "answerText": "46",
+          "isCorrect": false
+        },
+        {
+          "answerText": "55",
+          "isCorrect": false
+        },
+        {
+          "answerText": "42",
+          "isCorrect": false
+        },
+        {
+          "answerText": "23",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211259,
+      "questionText": "Which of these numbers is divisible by 6?",
+      "difficulty": 2,
+      "answerOptions": [
+        {
+          "answerText": "2058",
+          "isCorrect": true
+        },
+        {
+          "answerText": "2426",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2132",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2264",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1976",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211261,
+      "questionText": "What is the highest common factor of 196 and 49?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "49",
+          "isCorrect": true
+        },
+        {
+          "answerText": "7",
+          "isCorrect": false
+        },
+        {
+          "answerText": "14",
+          "isCorrect": false
+        },
+        {
+          "answerText": "4",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211263,
+      "questionText": "What is 186 as a product of its prime factors?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "2 x 3 x 31",
+          "isCorrect": true
+        },
+        {
+          "answerText": "2 x 2 x 2 x 23",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6 x 31",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8 x 23",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2 x 7 x 13",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211264,
+      "questionText": "A chef wants to buy the same sized containers for storing her two kinds of soup (pumpkin and tomato). She wants to fill the containers exactly: if she has 144 litres of pumpkin soup and 444 litres of tomato soup, what is the largest sized container (in litres) that she can use to store her soups?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "12",
+          "isCorrect": true
+        },
+        {
+          "answerText": "44",
+          "isCorrect": false
+        },
+        {
+          "answerText": "37",
+          "isCorrect": false
+        },
+        {
+          "answerText": "14",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211411,
+      "questionText": "Peter bought his TV for £699.00, but he now wants to sell it and buy a new, bigger TV that he has recently seen advertised. He discovers that he can sell his old TV online for £419.99. He rounds both values to the nearest £100, and calculates the difference between the two rounded values to see how much money he has lost. What figure does he arrive at?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "300",
+          "isCorrect": true
+        },
+        {
+          "answerText": "280",
+          "isCorrect": false
+        },
+        {
+          "answerText": "279.01",
+          "isCorrect": false
+        },
+        {
+          "answerText": "250",
+          "isCorrect": false
+        },
+        {
+          "answerText": "275",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211413,
+      "questionText": "Jeff is comparing the populations of islands. The Isle of Wight has a population of 139,395, and the Isle of Man has a population of 84,287. He rounds these figures to the nearest hundred, and then calculates the difference between them. What figure does he arrive at as the difference in population?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "55100",
+          "isCorrect": true
+        },
+        {
+          "answerText": "55108",
+          "isCorrect": false
+        },
+        {
+          "answerText": "55000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "50000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "56000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211426,
+      "questionText": "Heather has improved at maths significantly. In her last test, she scored 47.83%, but in her most recent one, she scored 82.65%. To calculate the amount she has improved, Heather rounds the two marks to the nearest 1 percent, then finds the difference. By what percentage does Heather calculate she has improved between the two tests?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "0.35",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.4",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.36",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.34",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.3482",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211436,
+      "questionText": "A car park attendant counts the cars that park at the station each day. On one day, 483 cars park, then the next, 246 cars park. The attendant rounds the number of cars parking each day to the nearest 10 cars, then calculates the difference between the two days based on these rounded values. What is the difference in number of cars between the figure that the attendant calculates, and the actual calculated value?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "7 cars",
+          "isCorrect": true
+        },
+        {
+          "answerText": "10 cars",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9 cars",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8 cars",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6 cars",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211441,
+      "questionText": "A shopkeeper counts the number of ice creams he sells each week for two weeks in the summer. In the first week, he sells 675 ice creams. In the second week the temperature drops slightly and he sells 387 ice creams. He rounds these numbers to the nearest ten, and adds his rounded values to work out the total number of ice creams he sold during the period. How many fewer ice creams did the shopkeeper actually sell than this calculated value?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "8",
+          "isCorrect": true
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211451,
+      "questionText": "Which of these numbers is a factor of 363?",
+      "difficulty": 1,
+      "answerOptions": [
+        {
+          "answerText": "11",
+          "isCorrect": true
+        },
+        {
+          "answerText": "7",
+          "isCorrect": false
+        },
+        {
+          "answerText": "13",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211454,
+      "questionText": "Which of these numbers is a factor of 168?",
+      "difficulty": 1,
+      "answerOptions": [
+        {
+          "answerText": "14",
+          "isCorrect": true
+        },
+        {
+          "answerText": "16",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "18",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211455,
+      "questionText": "Which of these numbers is a factor of 213?",
+      "difficulty": 1,
+      "answerOptions": [
+        {
+          "answerText": "3",
+          "isCorrect": true
+        },
+        {
+          "answerText": "7",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "11",
+          "isCorrect": false
+        },
+        {
+          "answerText": "13",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211457,
+      "questionText": "Which of these numbers is a factor of 329?",
+      "difficulty": 1,
+      "answerOptions": [
+        {
+          "answerText": "7",
+          "isCorrect": true
+        },
+        {
+          "answerText": "3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "11",
+          "isCorrect": false
+        },
+        {
+          "answerText": "13",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211558,
+      "questionText": "Stuart weighs 79.4 kg. His two daughters, Sophia and Clara, weigh 47.9 kg and 38.7 kg. How much heavier in kilograms are Sophia and Clara together than Stuart?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "7.2",
+          "isCorrect": true
+        },
+        {
+          "answerText": "31.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9.2",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8.2",
+          "isCorrect": false
+        },
+        {
+          "answerText": "40.7",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211677,
+      "questionText": "Which of these numbers can be divided by 3 and leave no remainder?",
+      "difficulty": 2,
+      "answerOptions": [
+        {
+          "answerText": "3894",
+          "isCorrect": true
+        },
+        {
+          "answerText": "3893",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3895",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3742",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3901",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211680,
+      "questionText": "Which of these numbers is divisible by 4?",
+      "difficulty": 2,
+      "answerOptions": [
+        {
+          "answerText": "3112",
+          "isCorrect": true
+        },
+        {
+          "answerText": "3114",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3110",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3034",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3202",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211681,
+      "questionText": "Which of these numbers is divisible by 9?",
+      "difficulty": 2,
+      "answerOptions": [
+        {
+          "answerText": "7947",
+          "isCorrect": true
+        },
+        {
+          "answerText": "7652",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7832",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7421",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7541",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211682,
+      "questionText": "Which of these numbers is divisible by 8?",
+      "difficulty": 2,
+      "answerOptions": [
+        {
+          "answerText": "96",
+          "isCorrect": true
+        },
+        {
+          "answerText": "108",
+          "isCorrect": false
+        },
+        {
+          "answerText": "63",
+          "isCorrect": false
+        },
+        {
+          "answerText": "94",
+          "isCorrect": false
+        },
+        {
+          "answerText": "34",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211683,
+      "questionText": "Which of these numbers is divisible by 2?",
+      "difficulty": 2,
+      "answerOptions": [
+        {
+          "answerText": "8942",
+          "isCorrect": true
+        },
+        {
+          "answerText": "8941",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8453",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8765",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9047",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211712,
+      "questionText": "Which of these numbers is a common factor of 51 and 68?",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "17",
+          "isCorrect": true
+        },
+        {
+          "answerText": "11",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "12",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211720,
+      "questionText": "Which of these numbers is a common factor of 84 and 63?",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "21",
+          "isCorrect": true
+        },
+        {
+          "answerText": "11",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "14",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211721,
+      "questionText": "What is the highest common factor of 90 and 126?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "18",
+          "isCorrect": true
+        },
+        {
+          "answerText": "3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "14",
+          "isCorrect": false
+        },
+        {
+          "answerText": "16",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211723,
+      "questionText": "What is the highest common factor of 156 and 108?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "12",
+          "isCorrect": true
+        },
+        {
+          "answerText": "18",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "16",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211727,
+      "questionText": "What is the highest common factor of 105 and 189?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "21",
+          "isCorrect": true
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7",
+          "isCorrect": false
+        },
+        {
+          "answerText": "17",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211728,
+      "questionText": "What is the highest common factor of 99 and 165?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "33",
+          "isCorrect": true
+        },
+        {
+          "answerText": "11",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "55",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211811,
+      "questionText": "A potter wants to buy the same sized containers for storing her 2 different types of clay. She wants to fill the containers exactly: if she has 108 litres of one kind of clay and 486 litres of another kind, what is the largest sized container (in litres) that she can use to store her clay?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "54",
+          "isCorrect": true
+        },
+        {
+          "answerText": "27",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "34",
+          "isCorrect": false
+        },
+        {
+          "answerText": "18",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211813,
+      "questionText": "A puppeteer wants to cut his two long pieces of different types of string into smaller, equal lengths, for use on his puppets. He wants to have no string left over: if he has 256 cm of one kind of string and 720 cm of the other, what is the longest length of string (in cm) that he can cut so that all the pieces of both kinds of string are the same length?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "16",
+          "isCorrect": true
+        },
+        {
+          "answerText": "8",
+          "isCorrect": false
+        },
+        {
+          "answerText": "36",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2",
+          "isCorrect": false
+        },
+        {
+          "answerText": "4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211814,
+      "questionText": "A cake decorator wants to cut his two pieces of different coloured ribbon into smaller, equal pieces, for use on his cakes. He wants to have no ribbon left over: if he has 455 cm of red ribbon and 665 cm of blue ribbon, what is the longest length of ribbon (in cm) that he can cut so that all the pieces of both colours of ribbon are the same length?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "35",
+          "isCorrect": true
+        },
+        {
+          "answerText": "65",
+          "isCorrect": false
+        },
+        {
+          "answerText": "85",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211815,
+      "questionText": "A farmer wants to buy the same sized containers for storing cow's milk and goat's milk separately. She wants to fill the containers exactly: if she has 767 litres of cow's milk and 354 litres of goat's milk, what is the largest sized container (in litres) that she can use to store her different milks?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "59",
+          "isCorrect": true
+        },
+        {
+          "answerText": "13",
+          "isCorrect": false
+        },
+        {
+          "answerText": "118",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211816,
+      "questionText": "A vineyard owner wants to buy the same sized barrels for storing red wine and white wine separately. She wants to fill the barrels exactly: if she has 78 litres of red wine and 195 litres of white wine, what is the largest sized barrel (in litres) that she can use to store her wines?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "39",
+          "isCorrect": true
+        },
+        {
+          "answerText": "13",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "15",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211911,
+      "questionText": "A supermarket has had two different suppliers for bread for 13 years; last week Noel's Rolls supplied 1746 rolls and Ben's Buns supplied 3685 rolls. If the supermarket sold a total of 4952 rolls, how many remained?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "479",
+          "isCorrect": true
+        },
+        {
+          "answerText": "5331",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5431",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1267",
+          "isCorrect": false
+        },
+        {
+          "answerText": "489",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 211915,
+      "questionText": "Last week 9168 cups of coffee were sold by Coffee Co. The week before, 2727 more cups than this were sold. This week, there was a heat wave, so 3945 fewer cups were sold than two weeks ago. How many cups were sold this week?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "7950",
+          "isCorrect": true
+        },
+        {
+          "answerText": "2496",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6672",
+          "isCorrect": false
+        },
+        {
+          "answerText": "795",
+          "isCorrect": false
+        },
+        {
+          "answerText": "11895",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212143,
+      "questionText": "When Harriet was on her flight to her holiday in Hawaii, she managed to watch her favourite film, the Incredibles, four times in a row. While she was doing this, the plane flew 7,836 kilometres in the space of 12 hours. How many kilometres did it fly each hour?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "653",
+          "isCorrect": true
+        },
+        {
+          "answerText": "654",
+          "isCorrect": false
+        },
+        {
+          "answerText": "656",
+          "isCorrect": false
+        },
+        {
+          "answerText": "651",
+          "isCorrect": false
+        },
+        {
+          "answerText": "658",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212157,
+      "questionText": "Rebecca is lucky enough to be a taste tester at the competition to find the most delicious cake in the world. One strong contender is the decadent triple-dip chocolate gateaux, which contains 9,000 calories. Rebecca only tries one-thirtieth of the cake. How many calories are in her slice?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "300",
+          "isCorrect": true
+        },
+        {
+          "answerText": "500",
+          "isCorrect": false
+        },
+        {
+          "answerText": "900",
+          "isCorrect": false
+        },
+        {
+          "answerText": "200",
+          "isCorrect": false
+        },
+        {
+          "answerText": "400",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212165,
+      "questionText": "The Quizzy Rascals decide, after a rather good performance during the first few rounds, to put their team forward for the end-of-quiz raffle worth £1,224! If they have a team of 6 people (and want to split the prize evenly!), how much would each of them win in pounds?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "204",
+          "isCorrect": true
+        },
+        {
+          "answerText": "720",
+          "isCorrect": false
+        },
+        {
+          "answerText": "250",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "402",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212167,
+      "questionText": "Only one twelfth of all the grapes that are harvested on Grape-n-stuff’s farm will go on to make their delicious grape juice. The rest will be sold as they are, as that is most popular with their customers. If 6,228 grapes are picked in total, how many go on to become juice?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "519",
+          "isCorrect": true
+        },
+        {
+          "answerText": "5500",
+          "isCorrect": false
+        },
+        {
+          "answerText": "491",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1200",
+          "isCorrect": false
+        },
+        {
+          "answerText": "628",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212169,
+      "questionText": "Every time Eliza the spider lays eggs, she lays one ninetieth of the number of the eggs that she laid the last time. One sixtieth of these eggs survive to grow into new spiders, and they all live happily in the attic of Alex's house. If Eliza produced 6,390 eggs last time she laid, how many eggs will she lay the next time?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "71",
+          "isCorrect": true
+        },
+        {
+          "answerText": "107",
+          "isCorrect": false
+        },
+        {
+          "answerText": "81",
+          "isCorrect": false
+        },
+        {
+          "answerText": "700",
+          "isCorrect": false
+        },
+        {
+          "answerText": "63",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212175,
+      "questionText": "An author is editing a long book. There are two volumes: one of 900 pages and one of 855 pages. He wants to create chapters of equal length. What is the greatest number of pages the chapters can be?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "45",
+          "isCorrect": true
+        },
+        {
+          "answerText": "55",
+          "isCorrect": false
+        },
+        {
+          "answerText": "90",
+          "isCorrect": false
+        },
+        {
+          "answerText": "35",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212176,
+      "questionText": "Susan and Jane are walking along two parallel streets and they want to keep to the same length strides, such that they divide each street into an exact number of strides. One street is 38 m and the other is 62 m. What is the longest their strides can be in metres?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "2",
+          "isCorrect": true
+        },
+        {
+          "answerText": "4",
+          "isCorrect": false
+        },
+        {
+          "answerText": "19",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212177,
+      "questionText": "There are 81 attackers, 189 midfielders, and 135 defenders in my football league. I want each team in the league to have the same number of attackers, the same number of midfielders and the same number of defenders, whilst making sure no player is left out. What is the greatest number of teams that I can create?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "27",
+          "isCorrect": true
+        },
+        {
+          "answerText": "3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "36",
+          "isCorrect": false
+        },
+        {
+          "answerText": "18",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212178,
+      "questionText": "Mark is an architect who needs steel and aluminium columns of the same length for his new building. Aluminium can be bought in 715 m columns and steel can be bought in 455 m columns. What is the longest length (in m) that he can cut his columns if he cannot afford to waste any metal?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "65",
+          "isCorrect": true
+        },
+        {
+          "answerText": "55",
+          "isCorrect": false
+        },
+        {
+          "answerText": "11",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "25",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212179,
+      "questionText": "A company is planning on running a team building retreat for its workers. It wants to have a competition between two departments: accounting and human resources. The accounting team has 44 people in it and the human resources team has 77 people in it. The company wants to divide the departments up into smaller teams so that all the teams are the same size and there are no individuals left out. What is the largest team size possible?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "11",
+          "isCorrect": true
+        },
+        {
+          "answerText": "4",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212181,
+      "questionText": "A cake recipe instructs you to preheat the oven to 485 °F for 15 minutes. When the cake is put in the oven, the temperature must be increased by 75 °F for 10 minutes and then reduced by 289 °F for the final 20 minutes. What is the temperature of the oven in the last five minutes of cooking?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "271 °F",
+          "isCorrect": true
+        },
+        {
+          "answerText": "699 °F",
+          "isCorrect": false
+        },
+        {
+          "answerText": "356 °F",
+          "isCorrect": false
+        },
+        {
+          "answerText": "131 °F",
+          "isCorrect": false
+        },
+        {
+          "answerText": "281 °F",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212182,
+      "questionText": "A standard CD has a maximum play time of 4320 seconds. One CD with 9 tracks has a play time of 432 seconds under the maximum. If the first 8 tracks play in total for 3494 seconds, how long is the final track in seconds?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "394",
+          "isCorrect": true
+        },
+        {
+          "answerText": "384",
+          "isCorrect": false
+        },
+        {
+          "answerText": "404",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3888",
+          "isCorrect": false
+        },
+        {
+          "answerText": "826",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212187,
+      "questionText": "A theatre contains 3915 seats. On the opening night (when seats cost £75) of a new show, there were 487 tickets which had not been sold. Additionally, as there was a storm, 361 people did not attend. How many people watched the show on opening night?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "3067",
+          "isCorrect": true
+        },
+        {
+          "answerText": "3077",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3438",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3554",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3428",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212199,
+      "questionText": "One aspect of international efforts against climate change is to replant trees that have been chopped down. One forest, spanning 783 acres, contains 9184 trees. If 3712 are chopped down, but 4238 are planted, how many trees are in the forest now?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "9710",
+          "isCorrect": true
+        },
+        {
+          "answerText": "526",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5472",
+          "isCorrect": false
+        },
+        {
+          "answerText": "4946",
+          "isCorrect": false
+        },
+        {
+          "answerText": "13422",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212224,
+      "questionText": "In a science experiment, a student measured the voltage of a circuit as 3.82 V. However, he found out his equipment was faulty, adding 1.94 V to all the readings it took! What was the actual voltage of the circuit?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1.88 V",
+          "isCorrect": true
+        },
+        {
+          "answerText": "5.76 V",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.98 V",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.86 V",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.96 V",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212226,
+      "questionText": "A common goal at the gym is to lower your body fat percentage. A body fat percentage between 25% and 30% is healthy. Wendy reduced her body fat percentage by a phenomenal 9.74% to 27.62%. What was her original body fat percentage?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "0.3736",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.1798",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.1788",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.3746",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.3636",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212863,
+      "questionText": "Which noun does not have to be accompanied by either an article or a determiner?",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "Radicalism",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Bear",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Troop",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Plant",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Party",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212903,
+      "questionText": "Peter hires a bicycle whilst he is on holiday. The company charges a £6 service fee per bicycle upfront, and £3.50 per day for hire. Peter is a regular client for this company and so he gets a 20% loyalty discount. If Peter pays £16 in total, how many days has he hired the bike for?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "4",
+          "isCorrect": true
+        },
+        {
+          "answerText": "3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "4.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 212934,
+      "questionText": "Which of these sentences contains two parallel clauses?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "My friends don't judge me for my actions or my words.",
+          "isCorrect": true
+        },
+        {
+          "answerText": "My friends don't judge me for my actions or my friends don't judge me for my words.",
+          "isCorrect": false
+        },
+        {
+          "answerText": "My friends don't judge me for what I do or for my words.",
+          "isCorrect": false
+        },
+        {
+          "answerText": "My friends don't judge me for my actions or for what I say.",
+          "isCorrect": false
+        },
+        {
+          "answerText": "My friends don't judge me for my actions or say.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213033,
+      "questionText": "Which letter of the alphabet comes three places after the fifth letter of the word for the second month in a year?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "X",
+          "isCorrect": true
+        },
+        {
+          "answerText": "U",
+          "isCorrect": false
+        },
+        {
+          "answerText": "D",
+          "isCorrect": false
+        },
+        {
+          "answerText": "E",
+          "isCorrect": false
+        },
+        {
+          "answerText": "K",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213369,
+      "questionText": "Adam is a keen cricket fan and every year goes to watch England play at Lord's cricket ground with his dad. The cost of tickets for himself and his dad was £114 this year, which was 20% more expensive than last year. How much did Adam and his dad pay for tickets last year?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "95",
+          "isCorrect": true
+        },
+        {
+          "answerText": "102",
+          "isCorrect": false
+        },
+        {
+          "answerText": "98",
+          "isCorrect": false
+        },
+        {
+          "answerText": "96",
+          "isCorrect": false
+        },
+        {
+          "answerText": "100",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213370,
+      "questionText": "Jackson is a keen football fan and every year goes to watch England play at Wembley stadium with his brother. The cost of tickets for himself and his brother was £72.80 this year, which was 40% more expensive than last year. How much did Adam and his brother pay for tickets last year?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "52",
+          "isCorrect": true
+        },
+        {
+          "answerText": "60",
+          "isCorrect": false
+        },
+        {
+          "answerText": "53",
+          "isCorrect": false
+        },
+        {
+          "answerText": "51.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "54",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213373,
+      "questionText": "Marcus produced his second film this year, which is a sequel to an action film he made last year. It is 9.6 minutes longer than his first film, which is an 8% increase on the number of minutes, as it includes many more explosions. How many minutes in total is the length of his second film?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "129.6",
+          "isCorrect": true
+        },
+        {
+          "answerText": "124",
+          "isCorrect": false
+        },
+        {
+          "answerText": "130",
+          "isCorrect": false
+        },
+        {
+          "answerText": "126",
+          "isCorrect": false
+        },
+        {
+          "answerText": "96.8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213375,
+      "questionText": "Sally has been saving money for the last year to pay for a dream holiday to Thailand. She has been checking the prices for hotels every week to try and book at a time when the price is lowest. She notices this week that the price for one night in a double room has increased by £21, which is an increase of 20%. What's the total price to book one night in a double room this week?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "126",
+          "isCorrect": true
+        },
+        {
+          "answerText": "130",
+          "isCorrect": false
+        },
+        {
+          "answerText": "125.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "127",
+          "isCorrect": false
+        },
+        {
+          "answerText": "128",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213376,
+      "questionText": "Geometrix, a company that produces protractors, compasses and other mathematical equipment, has seen a £250 increase in profits this month, which is a 10% increase on last month. The company celebrates by going on a day trip to a theme park. What is this month's total profit?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "2750",
+          "isCorrect": true
+        },
+        {
+          "answerText": "2800",
+          "isCorrect": false
+        },
+        {
+          "answerText": "4010",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2500",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3200",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213379,
+      "questionText": "Dover Athletic FC recently ran a fundraising campaign to raise money to spend on new equipment for local youth football clubs. The campaign was a great success and over £3000 was raised. As a result of the campaign, one local football club bought some new footballs, and now they have 96 more footballs than before, which is an increase of 120%. How many footballs does this club now have in total?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "176",
+          "isCorrect": true
+        },
+        {
+          "answerText": "165",
+          "isCorrect": false
+        },
+        {
+          "answerText": "170",
+          "isCorrect": false
+        },
+        {
+          "answerText": "180",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213380,
+      "questionText": "Lee, an ex-professional golfer, recently ran a fundraising campaign to buy new equipment for children to use at local golf clubs. The campaign was a great success, and over £2000 was raised. As a result of the campaign, Ashford golf club bought some new golf balls, and now they have 138 more golf balls than before, which is an increase of 20%. How many golf balls does this club now have in total?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "828",
+          "isCorrect": true
+        },
+        {
+          "answerText": "814",
+          "isCorrect": false
+        },
+        {
+          "answerText": "840",
+          "isCorrect": false
+        },
+        {
+          "answerText": "830",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213381,
+      "questionText": "Luca opened up a new Italian restaurant last year in Bristol which has become more popular each month. Recently, Luca decided to add two new pizzas to the menu and has seen a £440 increase in profits this month, which is a 20% increase on last month. What is this month's total profit?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "2640",
+          "isCorrect": true
+        },
+        {
+          "answerText": "2600",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2645",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2650",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213383,
+      "questionText": "Amir opened up a new Indian restaurant last year in Bracknell which has surged in popularity. Recently, Amir decided to add four new dishes to the menu and has seen a £1375 increase in profits this month, which is a 110% increase on last month. What is this month's total profit?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "2625",
+          "isCorrect": true
+        },
+        {
+          "answerText": "2600",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2640",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2645",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2650",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213392,
+      "questionText": "Jonathan recently won the lottery and decided to buy a new car. After thinking about it for a short while, he bought the new Ferrari 458. Whilst Jonathan loves his new car, he realised that he now spends £2320 more a year on petrol compared to when he drove his old car. This is an increase of 80%. How much does he spend a year on petrol now?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "5220",
+          "isCorrect": true
+        },
+        {
+          "answerText": "5200",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5300",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5240",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213394,
+      "questionText": "Abbie recently started a new job. Since she is earning more money now, she decided to buy a new house. The new house is much larger than her old house, which means that the heating bill is also more expensive. Abbie spends £784 more a year on her heating bill in the new house compared to in her old house. This is an increase of 80%. How much does she spend a year on her heating bill in total now?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1764",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1674",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1756",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1768",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1750",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213397,
+      "questionText": "Jimmy has a part time job working in his uncle's clothes shop. He got the job a few months ago wanting to earn some money to pay for a new tennis racket. Having now paid for the tennis racket, he decided that it would be a good idea to save some of the money he is earning. This month, he saved £13.50 more than he did last month, which is an increase of 15%. How much money did he save in total this month?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "103.5",
+          "isCorrect": true
+        },
+        {
+          "answerText": "113.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "103.45",
+          "isCorrect": false
+        },
+        {
+          "answerText": "104",
+          "isCorrect": false
+        },
+        {
+          "answerText": "111",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213551,
+      "questionText": "Which word is correctly spelled?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "parvenu",
+          "isCorrect": true
+        },
+        {
+          "answerText": "parneveux",
+          "isCorrect": false
+        },
+        {
+          "answerText": "parnavouz",
+          "isCorrect": false
+        },
+        {
+          "answerText": "parneloo",
+          "isCorrect": false
+        },
+        {
+          "answerText": "parvanez",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213617,
+      "questionText": "A milkman, named Ronald, gets his milk from Guernsey and Jersey (two different Channel islands). He prefers the milk from Guernsey because it sells better to his customers. He receives 555 litres of milk per month from both islands combined. If he receives 318 litres from Guernsey, what percentage of the milk does he receive from Jersey? Round your answer to one decimal place.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "0.427",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.437",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.0427",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.0573",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.573",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213619,
+      "questionText": "Stephen wants to find out how his 24 hour day is separated into work, leisure and sleeping. Stephen spends 7 hours a day working for a company that manufactures steel beams. He spends 10 hours a day sleeping in a double bed with extra fluffy pillows. He spends the rest of his time doing leisure activities, so what percentage of time does he spend doing leisure activities? Round your answer to one decimal place.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "0.292",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.708",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.417",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.0292",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.291",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213620,
+      "questionText": "A builder, named Beth, has large amounts of concrete and cement. In total, she has 46 tonnes of the two combined. She has to use these materials as part of her project to build the largest building in London. If she has 39 tonnes of concrete, what percentage of the total weight of materials does the cement make up? Round your answer to one decimal place.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "0.152",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.151",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.0848",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.0152",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.848",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213621,
+      "questionText": "A chef, named Susan, has different amounts of different kinds of soup for her lunch menu at the Ritz hotel in London. In total, she has 346 litres of soup. Personally, she would rather be involved in making the sandwiches instead of the soup, but she is not the head chef yet. If 200 litres of soup are tomato, 43 litres are parsnip, 57 litres are artichoke and the remaining litres are pumpkin, what percentage of the total amount of soup are parsnip and pumpkin? Round your answer to one decimal place.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "0.257",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.702",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.742",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.318",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.256",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213622,
+      "questionText": "A cake decorator has different colours of ribbon that he uses for decorating cakes. In total, he has 95 metres of ribbon. He once played a prank on his wife by tying up all of her belongings in ribbon. If he has 38 metres of red ribbon, 20 metres of blue ribbon, and the rest is green ribbon, what percentage of the ribbon he has is green? Round your answer to one decimal place.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "0.389",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.0389",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.21",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.39",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213623,
+      "questionText": "Timothy is a student who is fascinated by bugs. He once went on a field trip to London Zoo and ever since then hasn't been able to stop thinking about how much he loves insects. He estimates that of the 111 different insect species he has personally seen, 56 of them are able to fly. What percentage of the insect species that he has seen are unable to fly? Round your answer to one decimal place.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "0.495",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.0495",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.0504",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.504",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.485",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213624,
+      "questionText": "At a GP surgery, doctors see patients every day. On any given day, these patients can be a mix of all age groups. Last Wednesday, however, was a peculiar day as Dr. Smith saw a lot of elderly patients. Of the 19 patients he had on that day, 17 were over the age of 60. What percentage of the patients he saw on that day were under the age of 60? Round your answer to one decimal place.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "0.105",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.09",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.011",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.05",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.895",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213626,
+      "questionText": "A theatre has a capacity of 215 seats. However, for one of the performances of Macbeth, the computer malfunctions and it means that more tickets are sold than the theatre can hold. The computer manages to sell 269 seats for this performance. What percentage of the total capacity of the theatre does 269 seats represent? Round your answer to one decimal place.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1.251",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.7992",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.799",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.125",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.252",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213627,
+      "questionText": "A yo-yo maker sells his yo-yos online. Each week he makes 156 yo-yos because he realises he never sells more than that amount in one week. However, the week after the international yo-yo championship, there is a massive rush to buy yo-yos. In total, people order 317 yo-yos. What percentage of the normal number of yo-yos that he produces per week does this value represent? Round your answer to one decimal place.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "2.032",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.204",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2.043",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.003",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.203",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213628,
+      "questionText": "A lumberjack works in the Black Forest in Germany where he cuts down trees. Each day, he is told to cut down 11 trees. The wood he gets from the forest is used in the production of paper. However, on Tuesday, he cuts down 16 trees because he loses count of the number of trees he has cut down. What percentage of the number of trees he is supposed to cut down does the number cut down on Tuesday represent? Round your answer to one decimal place.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1.455",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.455",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.144",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.145",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.454",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213629,
+      "questionText": "Airline companies often overbook their flights in the case of no-shows in order to maximise profit margins. On one particular flight, from Sydney to London, the airline Qantas overbooked by selling tickets to 7 too many passengers. If there are 320 seats on the plane, what percentage of the total number of passengers able to fit on the plane does the number of tickets sold represent? Round your answer to one decimal place.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1.022",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.102",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.101",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.021",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.021",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 213630,
+      "questionText": "On a boat from England to France, 15 people sneak onto the boat because they want to go to France for free. They want to see the sights in Paris, like the Eiffel Tower. The boat was already carrying 61 people, which is the maximum number of people allowed on the boat, so when the 15 people snuck on, it was a much more dangerous trip. What percentage of the maximum number of people allowed on the boat does the number of people on the boat on this trip represent? Round your answer to one decimal place.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1.246",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.246",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.125",
+          "isCorrect": false
+        },
+        {
+          "answerText": "12.459",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.245",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 214535,
+      "questionText": "Which of these nouns is a different type of noun to the others?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "Child",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Actress",
+          "isCorrect": false
+        },
+        {
+          "answerText": "King",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Lord",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Bull",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 214551,
+      "questionText": "What is 1,700,000 millilitres in litres?",
+      "difficulty": 1,
+      "answerOptions": [
+        {
+          "answerText": "1700",
+          "isCorrect": true
+        },
+        {
+          "answerText": "17000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1700000000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "17",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.7",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 214722,
+      "questionText": "John's dinghy has a leak. He patches up the leak and then begins to empty the boat of the water that has filled it. He can only get rid of 600 millilitres every 2 minutes with his bucket. There is 3000 millilitres of water in the boat after he patches the leak. How much water is left in the boat in litres after 6 minutes?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1.2 l",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1,200,000 l",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1,200 l",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1 l",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1,500 l",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 214723,
+      "questionText": "Susie is comparing the weights of pieces of gravel from her driveway. She noticed she slips more often in one part of her driveway than the other and wondered if the gravel might be different. She takes a sample from each side. Together the samples weigh 52 grams. The sample from the front of the driveway weighs 23.3 grams. How much does the other sample weigh in kilograms?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "0.0287",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.753",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.287",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.0753",
+          "isCorrect": false
+        },
+        {
+          "answerText": "28700",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 214811,
+      "questionText": "Over the course of a day the same plane can fly from London to Prague (and back) twice. It always makes its final landing in London. In stormy weather it can only do this journey once. The distance between London and Prague is 1,344 kilometres. How far does the plane travel on a clear day in July in metres?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "5376000",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1.344",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5.376",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2688000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1344000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 214891,
+      "questionText": "A chemistry teacher is playing around with some liquid chemicals. Luckily, she is an expert and knows what she is doing otherwise this could be really dangerous. She starts by mixing 35 millilitres of a yellow chemical with 88 millilitres of a green chemical. She then pours this mixture into a container which already contains 320 millilitres of a colourless chemical. After stirring this for a few minutes, she takes exactly half of this mixture and combines it with 5.5 millilitres of a black chemical. The final mixture turns bright pink! How much pink mixture does she have at the end in litres?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "0.227",
+          "isCorrect": true
+        },
+        {
+          "answerText": "227",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2.29",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.224",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 214892,
+      "questionText": "A water tower is 20 metres high and 3 kilometres from the nearest town. The tower holds 2900 litres of water during the summer. For every house that needs water, about 360 litres leaves the water tower per day. If the town has 7 houses that are using the water tower's water supply, how many millilitres of water would be left in the tower if no extra water was pumped in to replenish the supply at the end of any given day?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "380000",
+          "isCorrect": true
+        },
+        {
+          "answerText": "38000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "380",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2520",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2520000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 214893,
+      "questionText": "A sample of dirt weighs 40 grams. A second sample of dirt weighs 60 grams. An average is taken of the two samples. Derik estimates that his local park must have about 7,000 samples worth of dirt. If this is true, how much would all the dirt in the park weigh in kilograms?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "350",
+          "isCorrect": true
+        },
+        {
+          "answerText": "7000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "350000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "700",
+          "isCorrect": false
+        },
+        {
+          "answerText": "35000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 214895,
+      "questionText": "A store selling only apples and oranges has 3,500 apples to sell. They are sold in bags of 5 apples, with each bag weighing 1.5 kilograms. In total, how much do all the apples in the store weigh in grams?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1050000",
+          "isCorrect": true
+        },
+        {
+          "answerText": "9050000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9.05",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1050",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.05",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215132,
+      "questionText": "A cruiserweight boxer weighs 14 stone. How many kilograms is this, if 1 stone is approximately 6.35 kilograms?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "88.9",
+          "isCorrect": true
+        },
+        {
+          "answerText": "8.89",
+          "isCorrect": false
+        },
+        {
+          "answerText": "87.7",
+          "isCorrect": false
+        },
+        {
+          "answerText": "63.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "25.4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215133,
+      "questionText": "A dog has won best in show at Crufts. It weighs 11 kilograms. How many pounds is this, if 1 kilogram is approximately 2.2 pounds?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "24.2",
+          "isCorrect": true
+        },
+        {
+          "answerText": "22.4",
+          "isCorrect": false
+        },
+        {
+          "answerText": "23.2",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2.2",
+          "isCorrect": false
+        },
+        {
+          "answerText": "22",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215135,
+      "questionText": "Year 5 are trying to make a line of marshmallows that is 27 feet long. If 1 foot is approximately 30 centimetres, how long will the line be in centimetres?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "810",
+          "isCorrect": true
+        },
+        {
+          "answerText": "81",
+          "isCorrect": false
+        },
+        {
+          "answerText": "840",
+          "isCorrect": false
+        },
+        {
+          "answerText": "600",
+          "isCorrect": false
+        },
+        {
+          "answerText": "210",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215138,
+      "questionText": "The aquarium's piranha tank contains 54 gallons of water. How many litres is this, if 1 gallon is approximately 4.5 litres?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "243",
+          "isCorrect": true
+        },
+        {
+          "answerText": "24.3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "231",
+          "isCorrect": false
+        },
+        {
+          "answerText": "216",
+          "isCorrect": false
+        },
+        {
+          "answerText": "27",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215153,
+      "questionText": "Mr Wonka makes 35 litres of fizzy lifting drink. How many pints is this, if 1 litre is approximately 1.75 pints?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "61.25",
+          "isCorrect": true
+        },
+        {
+          "answerText": "60.25",
+          "isCorrect": false
+        },
+        {
+          "answerText": "58.05",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8.75",
+          "isCorrect": false
+        },
+        {
+          "answerText": "52.5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215154,
+      "questionText": "Mr Wright needs 17 litres of paint to finish decorating the hall. How many pints is this, if 1 litre is approximately 1.75 pints?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "29.75",
+          "isCorrect": true
+        },
+        {
+          "answerText": "22.45",
+          "isCorrect": false
+        },
+        {
+          "answerText": "12.25",
+          "isCorrect": false
+        },
+        {
+          "answerText": "28.72",
+          "isCorrect": false
+        },
+        {
+          "answerText": "17.5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215491,
+      "questionText": "A homing pigeon flies at 15 m/s for 5 minutes, then slows down due to high winds and flies at 12 m/s for 10 minutes. How many kilometres does it fly in total?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "11.7",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1170",
+          "isCorrect": false
+        },
+        {
+          "answerText": "17.1",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.117",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.17",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215492,
+      "questionText": "Madonna is doing training for her swimming gala. She does breast stroke at 10 m/s for 3 minutes, then does front crawl for 2 minutes at 11 m/s. How many kilometres does she swim in total?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "3.12",
+          "isCorrect": true
+        },
+        {
+          "answerText": "3120",
+          "isCorrect": false
+        },
+        {
+          "answerText": "31.2",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3.21",
+          "isCorrect": false
+        },
+        {
+          "answerText": "312",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215493,
+      "questionText": "Peter the parrot is flying through the jungle. He flies at 20 m/s for 5 minutes, then he slows down due to heavy rainfall and flies for 10 minutes at 10 m/s. How many kilometres does he fly in total?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "12",
+          "isCorrect": true
+        },
+        {
+          "answerText": "12000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1200",
+          "isCorrect": false
+        },
+        {
+          "answerText": "120",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1.2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215506,
+      "questionText": "Simon goes for a walk with his dog, Jeff. They run at 8 metres per second for 2 minutes, then they walk for 6 minutes at 2 metres per second before finally running for 2 more minutes at 6 metres per second. By the end of their walk, Jeff is so tired that he sleeps for 2 hours. How many kilometres did they cover in total?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "2.4",
+          "isCorrect": true
+        },
+        {
+          "answerText": "4.2",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.024",
+          "isCorrect": false
+        },
+        {
+          "answerText": "24",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.24",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215522,
+      "questionText": "A supercar travels at 120 miles per hour for 40 miles, then at 100 miles per hour for 20 miles. How long, in minutes, does the supercar travel for?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "32",
+          "isCorrect": true
+        },
+        {
+          "answerText": "40",
+          "isCorrect": false
+        },
+        {
+          "answerText": "24",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8",
+          "isCorrect": false
+        },
+        {
+          "answerText": "16",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215525,
+      "questionText": "An aeroplane travels 4000 miles at 200 miles per hour, then 5000 miles at 250 miles per hour. How long, in minutes, does the aeroplane travel for?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "2400",
+          "isCorrect": true
+        },
+        {
+          "answerText": "4200",
+          "isCorrect": false
+        },
+        {
+          "answerText": "24000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2040",
+          "isCorrect": false
+        },
+        {
+          "answerText": "240",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215528,
+      "questionText": "Clare, the long-distance runner, runs 48 kilometres at 8 kilometres per hour, then has a rest and finishes her run at 6 kilometres per hour for 36 kilometres. How long, in minutes, does she run for?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "720",
+          "isCorrect": true
+        },
+        {
+          "answerText": "12",
+          "isCorrect": false
+        },
+        {
+          "answerText": "76",
+          "isCorrect": false
+        },
+        {
+          "answerText": "760",
+          "isCorrect": false
+        },
+        {
+          "answerText": "72",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215532,
+      "questionText": "A lorry driver travels 960 kilometres at 80 kilometres per hour to his drop-off point, then has an overnight break and finishes his driving shift by travelling home at 90 kilometres per hour for 720 kilometres. How long, in minutes, does he drive for?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1200",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1400",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1100",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1300",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 215536,
+      "questionText": "Suzanne uses the treadmill to keep fit. She runs at 8 m/s for 10 minutes, then she walks for 4 minutes at 2 m/s before finally running for 5 more minutes at 6 m/s. How many kilometres does she run in total?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "7.08",
+          "isCorrect": true
+        },
+        {
+          "answerText": "70.08",
+          "isCorrect": false
+        },
+        {
+          "answerText": "70.8",
+          "isCorrect": false
+        },
+        {
+          "answerText": "708",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7.8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 216251,
+      "questionText": "How would you recognise a regular heptagon?",
+      "difficulty": 3,
+      "answerOptions": [
+        {
+          "answerText": "It has rotational symmetry of order seven",
+          "isCorrect": true
+        },
+        {
+          "answerText": "It has six lines of symmetry",
+          "isCorrect": false
+        },
+        {
+          "answerText": "It has fourteen lines of symmetry",
+          "isCorrect": false
+        },
+        {
+          "answerText": "It has six sides of equal length",
+          "isCorrect": false
+        },
+        {
+          "answerText": "It has eight vertices",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219343,
+      "questionText": "Susan is building a swimming pool in her garden and wants to tile the area around the pool. She wants it completed before the summer holidays. The area of garden containing the pool is 25 m by 20 m and the pool itself is 15 m by 12 m. The non-slip terracotta tiles cost £6 per square metre. How much will it cost Susan to have the area around the pool tiled?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1920",
+          "isCorrect": true
+        },
+        {
+          "answerText": "4080",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1080",
+          "isCorrect": false
+        },
+        {
+          "answerText": "864",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219593,
+      "questionText": "Mr McGregor wants to plant some lettuces. His garden is 25 feet by 16 feet. The orchard patch is already 12ft by 9ft and the shed is 8ft by 4ft. The area of garden left over can be used to plant lettuces. If each lettuce needs 2 square feet to grow, how many lettuces can Mr McGregor fit in the rest of the garden?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "130",
+          "isCorrect": true
+        },
+        {
+          "answerText": "136",
+          "isCorrect": false
+        },
+        {
+          "answerText": "184",
+          "isCorrect": false
+        },
+        {
+          "answerText": "146",
+          "isCorrect": false
+        },
+        {
+          "answerText": "260",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219624,
+      "questionText": "Mr Matthews is decorating his house and wants to paint the largest wall in the bedroom bright yellow. The wall is 10 metres by 3.5 metres and there is a window in the middle. The window is 200 cm by 150 cm and will not be painted. One tin of paint will cover 16 square metres. How many tins of paint does Mr Matthews need to paint his bedroom wall?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "2",
+          "isCorrect": true
+        },
+        {
+          "answerText": "16",
+          "isCorrect": false
+        },
+        {
+          "answerText": "32",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219630,
+      "questionText": "Miss Swithins' class are using 1.5 cm by 4 cm mosaic tiles to create pictures. She wants each picture to measure 24 cm by 15 cm, and to be completely covered by tiles. Miss Swithins needs to know how many mosaic tiles she needs to order for next week. She wants the class to make 30 pictures. How many tiles does she need for all 30 pictures?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1800",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1200",
+          "isCorrect": false
+        },
+        {
+          "answerText": "240",
+          "isCorrect": false
+        },
+        {
+          "answerText": "360",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2400",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219652,
+      "questionText": "There has been a leak at All Stars Bowling Alley. One of the lanes at the bowling alley has been damaged. The maintenance team need to know how much it will cost to repair the damage. The lane is 18 metres long and 2.5 metres wide, including the gutters at either side. The wood in the centre of the lane needs replacing, but both the two gutters are undamaged. The gutters are 18 metres long and 0.5 metres wide. The wood to replace the lane costs £15 per square metre. What is the total cost of replacing the wood in the centre of the lane?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "405",
+          "isCorrect": true
+        },
+        {
+          "answerText": "270",
+          "isCorrect": false
+        },
+        {
+          "answerText": "675",
+          "isCorrect": false
+        },
+        {
+          "answerText": "300",
+          "isCorrect": false
+        },
+        {
+          "answerText": "105",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219654,
+      "questionText": "One of the Wimbledon tennis courts needs a new cover to protect the surface from rain showers during matches. The tennis court is 11 metres wide and has a total area of 264 square metres. The groundsman has found a cover that has a total area of 325 square metres. It is 13 metres wide, but the groundsman does not know how long it is. It needs to be at least 1 metre longer than the court. What is the difference between the length of the court and the length of the cover in metres?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1",
+          "isCorrect": true
+        },
+        {
+          "answerText": "61",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219656,
+      "questionText": "The leisure centre want to put a new volcano themed inflatable in the main swimming pool. It will be used at weekends for birthday parties. The inflatable has a total area of 117 square metres and is 18 metres long. The pool is 25 metres long and has a surface area of 325 square metres. There needs to be 3 metre wide gap between the edges of the inflatable and the edge of the pool. What is the difference between the width of the inflatable and the pool, in metres?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "6.5",
+          "isCorrect": true
+        },
+        {
+          "answerText": "27",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5.5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219664,
+      "questionText": "Adam's bedroom is 5 m wide, 10 m long and 3 m high. The walls are currently white, but he wants to repaint them blue. Blue paint costs £0.50 per litre, and it takes 0.1 litres of paint to cover 1 square metre of wall. How much will it cost Adam to buy all the paint he needs, assuming he does not paint his floor but does paint his ceiling?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "7",
+          "isCorrect": true
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2.25",
+          "isCorrect": false
+        },
+        {
+          "answerText": "45",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7.5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219677,
+      "questionText": "Alex has baked 25 chocolate brownies for the school bake sale: each brownie is 5 cm wide, 7 cm long and 4 cm high. To make them extra tasty, he decides to cover them in chocolate. I00 g of chocolate will cover 400 square centimetres of brownie. How many grams of chocolate will Alex need to completely cover all of the brownies in chocolate?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1037.5",
+          "isCorrect": true
+        },
+        {
+          "answerText": "875",
+          "isCorrect": false
+        },
+        {
+          "answerText": "518.75",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1004",
+          "isCorrect": false
+        },
+        {
+          "answerText": "550.5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219682,
+      "questionText": "Gemma is designing a new swimming pool for the UK Olympic swimming team. The pool will be 20 metres wide, 50 metres long and 2 metres deep. As a finishing touch, it will be lined with blue tiles. If each tile is a rectangle of 2 metres by 1 metre, how many tiles does Gemma need to order?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "640",
+          "isCorrect": true
+        },
+        {
+          "answerText": "234",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1912.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "468.75",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1280",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219684,
+      "questionText": "Nathan has decided to wallpaper his living room. He chooses stripy red and blue wallpaper, because red and blue are his favourite colours. The wallpaper costs £6 per roll and each roll covers 16 square feet of wall. The living room is 10 feet wide, 15 feet long and 8 feet high. Nathan does not want to wallpaper the floor or the ceiling. Bearing in mind that he can only buy whole rolls of wallpaper, how much will it cost Nathan to wallpaper his living room?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "150",
+          "isCorrect": true
+        },
+        {
+          "answerText": "262.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "140",
+          "isCorrect": false
+        },
+        {
+          "answerText": "119",
+          "isCorrect": false
+        },
+        {
+          "answerText": "152",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219685,
+      "questionText": "Mabel is shipping a crate from Mexico to Austria. The crate is 10 m wide, 5 m long and 20 m high. The crate contains her very expensive collection of paintings, including her favourite Van Gogh. The cost of shipping is dependent on the surface area of the crate. Because the paintings are so important, the cost of shipping is very high, and it costs £10 per square metre of surface area. How much will shipping the crate cost?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "7000",
+          "isCorrect": true
+        },
+        {
+          "answerText": "10000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2300",
+          "isCorrect": false
+        },
+        {
+          "answerText": "4500",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219688,
+      "questionText": "There are about 2 billion children in the world. As a result, Santa's elves have to be very quick and wrap a lot of presents every day. The average elf wraps 20 presents per hour and the average present is 11 cm wide, 12 cm long and 6 cm tall. What is the minimum amount of wrapping paper an elf needs per hour, in square centimetres (assuming they wrap the presents exactly, with no overlap)?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "10800",
+          "isCorrect": true
+        },
+        {
+          "answerText": "6480",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1080",
+          "isCorrect": false
+        },
+        {
+          "answerText": "15500",
+          "isCorrect": false
+        },
+        {
+          "answerText": "12960",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219690,
+      "questionText": "Nigel is an artist and he is decorating a chest with a mosaic for his sister's birthday. The chest is 4 feet wide, 3 feet long and 2 feet deep. If each piece of mosaic is 0.5 feet by 1 foot, how many pieces of mosaic will Nigel need to completely cover the chest?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "104",
+          "isCorrect": true
+        },
+        {
+          "answerText": "52",
+          "isCorrect": false
+        },
+        {
+          "answerText": "103",
+          "isCorrect": false
+        },
+        {
+          "answerText": "114",
+          "isCorrect": false
+        },
+        {
+          "answerText": "56",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219911,
+      "questionText": "Anya has an octagonal shaped paddling pool and loves to use it when the weather is hot. Last week she went to visit her friend, Samira, who also has an octagonal swimming pool. Both pools are regular octagons and are almost identical, but Samira's has longer sides. Each side of Samira's pool is 24 centimetres long, whereas each side of Anya's pool is 18 centimetres long. Anya wants to know if both pools will fit in her garden. What is the total perimeter, in centimetres, of both Samira and Anya's octagonal paddling pools?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "336",
+          "isCorrect": true
+        },
+        {
+          "answerText": "342",
+          "isCorrect": false
+        },
+        {
+          "answerText": "42",
+          "isCorrect": false
+        },
+        {
+          "answerText": "252",
+          "isCorrect": false
+        },
+        {
+          "answerText": "294",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219912,
+      "questionText": "Edinburgh Zoo has been improving some of its animal enclosures. The next enclosure to be modernised is the zebra paddock, which is in the shape of a regular pentagon. The zoo want to increase the size of the paddock but still maintain the pentagonal shape. They are going to make the improvements by buying new, larger panels to build the enclosure. The current panels are each 9 metres long and the new panels will be 12 metres long. The accounts department want to know how much more the new larger enclosure will cost, as the panels cost £2.50 per metre. How much more will it cost to build the new enclosure than it did to build the old enclosure?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "37.5",
+          "isCorrect": true
+        },
+        {
+          "answerText": "30",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "45",
+          "isCorrect": false
+        },
+        {
+          "answerText": "38.5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219917,
+      "questionText": "Some children are having a construction competition as part of a special design week at school. Teams have been asked to use bricks that are all the same height to build regular hexagons. The yellow team have built a regular hexagon with walls that are each 19 cm long. The red team have built a hexagon with walls that are each 23 cm long. Both teams use 6 bricks per centimetre of wall. What is the total number of bricks used by both teams to build the perimeters of their hexagons?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1512",
+          "isCorrect": true
+        },
+        {
+          "answerText": "144",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2016",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1764",
+          "isCorrect": false
+        },
+        {
+          "answerText": "252",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219922,
+      "questionText": "The Heritage Steam Railway Company are trying to attract more visitors by improving the appearance of the station platform. They are using some old sleepers to make some flowerbeds. Each sleeper has been cut so that it is 16 inches long. They want to make two hexagonal flower beds. The sides of both flowers beds must each be 32 inches long, so that they fit in place on the platform. How many sleepers are needed in total to make the combined perimeters of both hexagonal flower beds?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "24",
+          "isCorrect": true
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "17",
+          "isCorrect": false
+        },
+        {
+          "answerText": "16",
+          "isCorrect": false
+        },
+        {
+          "answerText": "18",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219938,
+      "questionText": "Peter and his friends are spending the day at a go-kart track. In the morning they each race around a track which is shaped as a regular hexagon. During the lunch break, the staff add more barriers and increase the size of the track. During the afternoon session, Peter races his friends around the new, larger track. It is still the shape of a regular hexagon but each side has increased in length from from 18 to 23 metres. Peter's fastest speed is 4 metres per second for both tracks. Travelling at this speed, what is his combined total time, in seconds, for racing around both hexagonal tracks?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "61.5",
+          "isCorrect": true
+        },
+        {
+          "answerText": "62.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "82",
+          "isCorrect": false
+        },
+        {
+          "answerText": "71.8",
+          "isCorrect": false
+        },
+        {
+          "answerText": "60",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219939,
+      "questionText": "Amira is wrapping presents for her mother's birthday. She has found some fabulous gift boxes, a gold one and a silver one, but they are in the shape of regular hexagons and they are quite plain. She wants to put a piece of ribbon around the perimeter of each gift box, but is not sure how much she will need. The gold gift box has sides which are each 14 cm long. The silver gift box is larger: each of its sides are 19 cm long. The ribbon she wants to use is 3p per centimetre. How much will it cost Amira to buy enough ribbon to fit around the perimeter of both hexagonal gift boxes, in pounds?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "5.94",
+          "isCorrect": true
+        },
+        {
+          "answerText": "6.93",
+          "isCorrect": false
+        },
+        {
+          "answerText": "792",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7.92",
+          "isCorrect": false
+        },
+        {
+          "answerText": "594",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219940,
+      "questionText": "A hotel is undergoing refurbishment. The reception area has a tiled floor which features the hotel's logo. The old logo was in the shape of a square, but the new logo will be in the shape of a regular pentagon. The hotel is keen to reuse the old tiles from the edges, as they match exactly with the new colour scheme. Each side of the square logo measured 23 inches. The tiler needs to know the length of each side of the new pentagonal logo, so he knows whether he will need to cut any tiles. What is the longest possible length, in inches, of each side of a pentagonal logo that has the same total perimeter as the original square logo?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "18.4",
+          "isCorrect": true
+        },
+        {
+          "answerText": "30.6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "15.3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "18.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "28.8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 219942,
+      "questionText": "The local science museum has been modernising the outside of the building. There is a statue of Sir Isaac Newton in front of the museum. There was a fence around the statue but it has been damaged and needs replacing. The museum have decided to plant a hedge around the statue instead. The fence formed a regular hexagon around the statue and each side measured 24 inches. The new hedge will have the same total perimeter as the fence. The new hedge is going to be a square and made up of shrubs which each have a width of 9 inches. How many shrubs will be needed for one side of the square hedge, if the perimeter of the hedge will be the same as the perimeter of the hexagonal fence was?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "4",
+          "isCorrect": true
+        },
+        {
+          "answerText": "5.3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "3",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 220017,
+      "questionText": "How many faces does a pentagonal prism have?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "7",
+          "isCorrect": true
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 220018,
+      "questionText": "How many faces does an octagonal prism have?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "10",
+          "isCorrect": true
+        },
+        {
+          "answerText": "12",
+          "isCorrect": false
+        },
+        {
+          "answerText": "9",
+          "isCorrect": false
+        },
+        {
+          "answerText": "16",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 220019,
+      "questionText": "How many faces does a heptagonal prism have?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "9",
+          "isCorrect": true
+        },
+        {
+          "answerText": "10",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7",
+          "isCorrect": false
+        },
+        {
+          "answerText": "17",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 220025,
+      "questionText": "How many edges does a pentagonal prism have?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "15",
+          "isCorrect": true
+        },
+        {
+          "answerText": "13",
+          "isCorrect": false
+        },
+        {
+          "answerText": "11",
+          "isCorrect": false
+        },
+        {
+          "answerText": "10",
+          "isCorrect": false
+        },
+        {
+          "answerText": "18",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 220029,
+      "questionText": "How many vertices does a hexagonal prism have?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "12",
+          "isCorrect": true
+        },
+        {
+          "answerText": "8",
+          "isCorrect": false
+        },
+        {
+          "answerText": "10",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "11",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 220030,
+      "questionText": "How many vertices does an octagonal prism have?",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "16",
+          "isCorrect": true
+        },
+        {
+          "answerText": "17",
+          "isCorrect": false
+        },
+        {
+          "answerText": "15",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8",
+          "isCorrect": false
+        },
+        {
+          "answerText": "12",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 220042,
+      "questionText": "How many more edges does an octagonal prism have than a pentagonal prism?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "9",
+          "isCorrect": true
+        },
+        {
+          "answerText": "8",
+          "isCorrect": false
+        },
+        {
+          "answerText": "10",
+          "isCorrect": false
+        },
+        {
+          "answerText": "22",
+          "isCorrect": false
+        },
+        {
+          "answerText": "15",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 220044,
+      "questionText": "How many more edges does an octagonal prism have than a square-based pyramid?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "16",
+          "isCorrect": true
+        },
+        {
+          "answerText": "18",
+          "isCorrect": false
+        },
+        {
+          "answerText": "13",
+          "isCorrect": false
+        },
+        {
+          "answerText": "14",
+          "isCorrect": false
+        },
+        {
+          "answerText": "11",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 220146,
+      "questionText": "How many more vertices does a heptagonal prism have than a cube?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "6",
+          "isCorrect": true
+        },
+        {
+          "answerText": "12",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "18",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 221463,
+      "questionText": "An abstract art exhibit is made out of beams placed flat on a wall. It consists of 10 connected square structures, which each uses a sheet of wood which has a length of 16 metres. Half of the square structures have an additional triangle attached to the square, which has a base the same length as the beams used in the squares. The triangles each have a height of 0.5 metres each. What is the total area of the front-facing side of the art exhibit in metres squared?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "2580",
+          "isCorrect": true
+        },
+        {
+          "answerText": "720",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2322",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2600",
+          "isCorrect": false
+        },
+        {
+          "answerText": "2340",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 221464,
+      "questionText": "A company makes novelty items for theme parks and other attractions. One of their products is a door in the shape of a parallelogram. The door comes in 4 different colours: red, green, black, or multicoloured. A theme park is building a haunted house and wants to purchase a black door in the shape of a parallelogram. They need a custom made size, for which the company provides the following information: 'For custom made doors, every square metre costs £10.' The current door space is 3.5 m width by 4.5 m height however the theme park owner wants the height to be doubled. What is the cost of a door of this size?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "315",
+          "isCorrect": true
+        },
+        {
+          "answerText": "320",
+          "isCorrect": false
+        },
+        {
+          "answerText": "630",
+          "isCorrect": false
+        },
+        {
+          "answerText": "157.5",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1260",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 221469,
+      "questionText": "A new design for a computer mouse has a side-profile which looks like a parallelogram attached to the top of a square. When looking at the side-profile of the mouse as a 2D model on the computer, the square has sides of 8 cm, and the parallelogram with a height of 16.2 cm fits directly on top of the square. In 3 dimensions the shape is curved and is meant to be better for the user than a regular mouse. A competitor hears about the new design before it is released and decides to copy the company. To avoid it being too obvious that they are copying the design, they change the dimensions of the 2D side-profile of the square to be 1.5 times bigger. They keep the height of the parallelogram the same but change its base so that it still fits perfectly on top of the square. What is the area of the side-profile of the competitor's 2D model for the computer mouse?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "338.4",
+          "isCorrect": true
+        },
+        {
+          "answerText": "169.2",
+          "isCorrect": false
+        },
+        {
+          "answerText": "193.6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "300.8",
+          "isCorrect": false
+        },
+        {
+          "answerText": "224.2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 221741,
+      "questionText": "Olivia is a famous painter. She needs a particular colour of paint which she finds in a shop for £6.99. However, she thinks that she can make it herself for cheaper. She calculates that to make the pigment she needs, Olivia will need to mix blue paint, red paint and green paint in a ratio of 11:10:4. Olivia wants to make 295g of the paint. How much red paint will she need to add?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "118 grams",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1294 grams",
+          "isCorrect": false
+        },
+        {
+          "answerText": "699 grams",
+          "isCorrect": false
+        },
+        {
+          "answerText": "142 grams",
+          "isCorrect": false
+        },
+        {
+          "answerText": "104 grams",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 221793,
+      "questionText": "Bella owns a bakery. She has calculated that the most profitable way of stocking her shop is to make baguettes, croissants and cream buns at a ratio of 18:13:9. If she stocks her bakery this way, she will make 50% profit on her sales. Bella wants to make a total of 1000 products. How many croissants will she have to make?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "325",
+          "isCorrect": true
+        },
+        {
+          "answerText": "139",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1000",
+          "isCorrect": false
+        },
+        {
+          "answerText": "50",
+          "isCorrect": false
+        },
+        {
+          "answerText": "450",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 221794,
+      "questionText": "Ben is baking a cake for his sister's wedding in 45 days. He will need to add flour, milk, sugar and eggs in a ratio of 11:10:4:3. The cake will need to cook for 60 minutes. As his sister is inviting a lot of guests, he wants the cake to weigh 1.19 kilograms. How much milk will he need to use in the recipe? Give your answer in grams and to the nearest whole number.",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "425",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1043",
+          "isCorrect": false
+        },
+        {
+          "answerText": "45",
+          "isCorrect": false
+        },
+        {
+          "answerText": "60",
+          "isCorrect": false
+        },
+        {
+          "answerText": "467",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 221807,
+      "questionText": "William manufactures curtains. He uses white fabric, pink fabric and blue fabric for his newest design in a ratio of 17:9:5. In the past he has experimented with using an extra 9 metres of blue fabric. For his new batch of curtains, William wants to produce a total length of 46.5 metres without using the extra blue fabric. How much blue fabric will he need to use, to the nearest centimetre?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "750",
+          "isCorrect": true
+        },
+        {
+          "answerText": "95",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1046",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1795",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1350",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 221868,
+      "questionText": "Noah is making a wardrobe using different types of wood. He uses oak, cedar and mahogany at a ratio of 15:2:17. Sometimes he uses an extra 3 kilograms of oak to make his furniture sturdier. How many grams of cedar will Noah have to use if he wants to make a wardrobe weighing 17.68 kilograms, if he decides not to use the extra 3 kilograms of oak?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1040",
+          "isCorrect": true
+        },
+        {
+          "answerText": "5217",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1700",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1512",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5513",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 221869,
+      "questionText": "Millie makes milkshakes at work using milk, ice cream, strawberries and syrup in a ratio of 17:5:10:3. Each milkshake costs £4.96 to make. How many milliletres of milk will Millie need to use if she wants to make a total of 2.8 litres of milkshake?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1360",
+          "isCorrect": true
+        },
+        {
+          "answerText": "1480",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1753",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5103",
+          "isCorrect": false
+        },
+        {
+          "answerText": "4690",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 221880,
+      "questionText": "Imogen is setting up a large fish tank in her home. She wants to buy goldfish, minnows and guppies in the ratio 13:10:2. Each guppy costs £0.45. If Imogen buys a total of 340 fish, how many guppies will she buy, to the nearest whole number?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "27",
+          "isCorrect": true
+        },
+        {
+          "answerText": "35",
+          "isCorrect": false
+        },
+        {
+          "answerText": "45",
+          "isCorrect": false
+        },
+        {
+          "answerText": "28",
+          "isCorrect": false
+        },
+        {
+          "answerText": "102",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 221884,
+      "questionText": "Daniel is buying books for a new community library. He wants to buy romance novels, thriller novels and biographies in the ratio 16:4:2. He did consider buying an extra 30 biographies, but eventually decided not to. If Daniel buys a total of 803 books, how many will be biographies, to the nearest whole number?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "73",
+          "isCorrect": true
+        },
+        {
+          "answerText": "164",
+          "isCorrect": false
+        },
+        {
+          "answerText": "42",
+          "isCorrect": false
+        },
+        {
+          "answerText": "74",
+          "isCorrect": false
+        },
+        {
+          "answerText": "103",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 221901,
+      "questionText": "Josephine is taking part in a triathlon. Seven of her friends from school are also taking part in the same event. The triathlon consists of swimming 20 lengths of the pool, cycling for 4 km, and a 2 km run. She has been practising and it takes her 30 seconds to swim each length, 180 seconds to cycle 1 km and 390 seconds to run 1 km. It also takes Josephine 210 seconds between each stage to change over. If the triathlon starts at 09:52 am, what time should Josephine finish the race?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "0.440277777777778",
+          "isCorrect": true
+        },
+        {
+          "answerText": "0.445833333333333",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.438888888888889",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.443055555555556",
+          "isCorrect": false
+        },
+        {
+          "answerText": "0.444444444444444",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 221904,
+      "questionText": "Michael's favourite drink is a mixture of lemonade, orange juice and coca cola combined in the ratio 19:10:8. How many millilitres of orange juice will Michael need to use if he makes 4.662 litres of the drink?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "1260",
+          "isCorrect": true
+        },
+        {
+          "answerText": "350",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1910",
+          "isCorrect": false
+        },
+        {
+          "answerText": "108",
+          "isCorrect": false
+        },
+        {
+          "answerText": "1610",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 222074,
+      "questionText": "Tixton Rowing Club are taking part in a sponsored row to raise money for some new oars. They are going to complete a 40 mile row in 6 stages, and change teams at each stage. The first and second stages each take 48 minutes; the third and fourth stages will each take 54 minutes; the fifth stage will take 77 minutes; and the final stage will take 79 minutes. It also took 18 minutes in between each stage to change teams. How long did it take the club to complete the row, in hours and minutes?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "7 hours 30 minutes",
+          "isCorrect": true
+        },
+        {
+          "answerText": "6 hours 50 minutes",
+          "isCorrect": false
+        },
+        {
+          "answerText": "5 hours 40 minutes",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6 hours",
+          "isCorrect": false
+        },
+        {
+          "answerText": "8 hours",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 222075,
+      "questionText": "The under-16 rugby team are having a day out at the theme park to celebrate the end of the season. They are going to leave the rugby ground at 6:50 am and will get back at 10:20 pm. The journey will take 4 hours 30 minutes each way. If each theme park ride takes them 15 minutes, what is the maximum number of rides they will be able to go on?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "26 rides",
+          "isCorrect": true
+        },
+        {
+          "answerText": "39 rides",
+          "isCorrect": false
+        },
+        {
+          "answerText": "32 rides",
+          "isCorrect": false
+        },
+        {
+          "answerText": "28 rides",
+          "isCorrect": false
+        },
+        {
+          "answerText": "24 rides",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 222076,
+      "questionText": "Mr McGregor wants to landscape his garden. He is going to remove the vegtetable patches and shed, then replace them with a lawn and some paths. His grandson is going to complete the work with some of his friends. Mr McGregor wants to know how long the work will take. The removal of the vegetable patches will take 330 minutes. The shed will take 75 minutes to dismantle. The lawn will take 420 minutes to lay. Finally, he wants three paths, which will take 55 minutes each. How long will all the work take, in hours and minutes?",
+      "difficulty": 5,
+      "answerOptions": [
+        {
+          "answerText": "16 hours and 30 minutes",
+          "isCorrect": true
+        },
+        {
+          "answerText": "14 hours 40 minutes",
+          "isCorrect": false
+        },
+        {
+          "answerText": "14 hours",
+          "isCorrect": false
+        },
+        {
+          "answerText": "15 hours and 30 minutes",
+          "isCorrect": false
+        },
+        {
+          "answerText": "16 hours and 50 minutes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 223351,
+      "questionText": "Select the correctly spelt word.",
+      "difficulty": 4,
+      "answerOptions": [
+        {
+          "answerText": "lacquer",
+          "isCorrect": true
+        },
+        {
+          "answerText": "laqer",
+          "isCorrect": false
+        },
+        {
+          "answerText": "laqeur",
+          "isCorrect": false
+        },
+        {
+          "answerText": "lacqeur",
+          "isCorrect": false
+        },
+        {
+          "answerText": "laquer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 223399,
+      "questionText": "Sometimes we put clauses, like ‘I said’ or ‘he shouts’, before or after speech. Which option contains correctly punctuated speech?",
+      "difficulty": 1,
+      "answerOptions": [
+        {
+          "answerText": "'Sit down!' he shouted.",
+          "isCorrect": true
+        },
+        {
+          "answerText": "'Sit down' he shouted.",
+          "isCorrect": false
+        },
+        {
+          "answerText": "'Sit down he shouted!'",
+          "isCorrect": false
+        },
+        {
+          "answerText": "'Sit down!' he shouted",
+          "isCorrect": false
+        },
+        {
+          "answerText": "He shouted 'Sit down!'",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 224211,
+      "questionText": "How should you end a sentence?",
+      "difficulty": 1,
+      "answerOptions": [
+        {
+          "answerText": "With a full stop (.)",
+          "isCorrect": true
+        },
+        {
+          "answerText": "With a word",
+          "isCorrect": false
+        },
+        {
+          "answerText": "With a comma (,)",
+          "isCorrect": false
+        },
+        {
+          "answerText": "With a capital letter",
+          "isCorrect": false
+        },
+        {
+          "answerText": "With a noun",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
